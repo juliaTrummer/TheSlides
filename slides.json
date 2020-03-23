@@ -1,18 +1,18 @@
 {
     "slides": [{
-        "id": 1,
+        "id": "1",
         "title": "untitled1",
         "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
         "description": "des",
-        "timestamp": 1584978969,
+        "timestamp": "1584978969",
         "gpsdata": "34.758791, 32.406403"
     },
         {
-            "id": 2,
+            "id": "2",
             "title": "untitled2",
             "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
             "description": "des",
-            "timestamp": 1584978969,
+            "timestamp": "1584978969",
             "gpsdata": "34.758791, 32.406403"
         }
     ]
