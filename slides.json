@@ -1,15 +1,7 @@
 {
     "slides": [{
         "id": 1,
-        "title": "untitled1",
-        "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
-        "description": "des"
-    },
-        {
-            "id": 2,
-            "title": "untitled2",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
-            "description": "des"
-        }
+        "title": "untitled1"
+    }
     ]
 }
