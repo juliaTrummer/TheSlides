@@ -2,7 +2,7 @@
     "slides": [{
         "id": "1",
         "title": "Friends",
-        "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+        "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/people.jpg",
         "description": "Cyprus 2019",
         "timestamp": "1554076800",
         "gpsdata": "34.758791, 32.406403"
@@ -10,7 +10,7 @@
         {
             "id": "2",
             "title": "Seaside",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/sea.jpg",
             "description": "Paphos",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
@@ -18,7 +18,7 @@
         {
             "id": "3",
             "title": "Seasideview",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/seasideview.jpg",
             "description": "Pahphos",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
@@ -26,7 +26,7 @@
         {
             "id": "4",
             "title": "Sunset",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/sunset.jpg",
             "description": "Sun setting",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
@@ -34,7 +34,7 @@
         {
             "id": "5",
             "title": "SunsetSky",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/sunsetsky.jpg",
             "description": "Sunset from Plane",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
@@ -42,7 +42,7 @@
         {
             "id": "6",
             "title": "Bridge",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/bridge.jpg",
             "description": "",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
@@ -50,7 +50,7 @@
         {
             "id": "7",
             "title": "Mountain",
-            "imgsrc": "https://drive.google.com/open?id=11SrUeGk2GIk_8KpCy7bEPoLBIBtZQdRq",
+            "imgsrc": "https://juliatrummer.github.io/TheSlides/Pictures/mountain.jpg",
             "description": "",
             "timestamp": "1554076800",
             "gpsdata": "34.758791, 32.406403"
